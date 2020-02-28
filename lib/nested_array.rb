@@ -61,7 +61,7 @@ def sorted_matrix
 ]
     ]
     storage_room[conventional_produce].sort
-    storage_room[organic_produce].sort
+    return storage_room[organic_produce].sort
     
 end
 
