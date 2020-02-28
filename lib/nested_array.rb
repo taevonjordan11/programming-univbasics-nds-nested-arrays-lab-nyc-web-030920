@@ -79,16 +79,16 @@ def matrix_lookup(matrix, row, column)
   "Grapes",
   "Avocadoes",
   "Asparagus"
-],
-   conventional_produce = [
-  "Grapefruit",
-  "Pineapple",
-  "Oranges",
-  "Watermelon",
-  "Eggplant"
 ]
     ]
- 
+    organic_produce = [
+  "Strawberries",
+  "Potatoes",
+  "Grapes",
+  "Avocadoes",
+  "Asparagus"
+]
+    ]
     storage_room[1][1]
   
 end
