@@ -88,7 +88,7 @@ def matrix_lookup(matrix, row, column)
   "Asparagus"
 ]
     ]
-    storage_room[1][1]
+    matrix_lookup[1][1]
   
 end
 
