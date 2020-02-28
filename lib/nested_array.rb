@@ -62,7 +62,7 @@ def sorted_matrix
     ]
     conventional_produce.sort
     organic_produce.sort
-    return storage_room
+    return storage_room.sort
 end
 
 def matrix_lookup(matrix, row, column)
