@@ -89,7 +89,7 @@ def matrix_lookup(matrix, row, column)
 ]
     ]
  
-    storage_room[0][1]
+    storage_room[1][1]
   
 end
 
