@@ -72,24 +72,6 @@ end
 def matrix_lookup(matrix, row, column)
   # Given any matrix (array of arrays), a row index and a column index, 
   # Return the matrix's content at that row and and column
-  storage_room = [
-    conventional_produce = [
-  "Grapefruit",
-  "Pineapple",
-  "Oranges",
-  "Watermelon",
-  "Eggplant"
-],
-    organic_produce = [
-  "Strawberries",
-  "Potatoes",
-  "Grapes",
-  "Avocadoes",
-  "Asparagus"
-]
-    ]
-    storage_room([1][1])
-  
 end
 
 def matrix_update(matrix, row, column, new_value)
