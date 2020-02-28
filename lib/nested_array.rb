@@ -60,8 +60,8 @@ def sorted_matrix
   "Asparagus"
 ]
     ]
-    storage_room[conventional_produce].sort
-    return storage_room[organic_produce].sort
+    storage_room[0][1].sort
+    
     
 end
 
