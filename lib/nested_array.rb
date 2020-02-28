@@ -60,7 +60,7 @@ def sorted_matrix
   "Asparagus"
 ]
     ]
-    storage_room[0]
+    storage_room[0].sort
     
     
     
