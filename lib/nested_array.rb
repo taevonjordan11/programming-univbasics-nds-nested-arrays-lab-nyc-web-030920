@@ -88,7 +88,8 @@ def matrix_lookup(matrix, row, column)
   "Asparagus"
 ]
     ]
-   storage_room[1][3]
+    
+  
 end
 
 def matrix_update(matrix, row, column, new_value)
