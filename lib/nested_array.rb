@@ -104,7 +104,7 @@ def matrix_update(matrix, row, column, new_value)
   "Asparagus"
 ]
     ] 
-    conventional_produce[0][2] = "Lemons"
-    return conventional_produce
+    matrix[0][2] = "Lemons"
+    return matrix
     
 end
