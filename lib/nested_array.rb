@@ -61,6 +61,7 @@ def sorted_matrix
 ]
     ]
     organic_produce.sort
+    conventional_produce.sort
     
     
     
