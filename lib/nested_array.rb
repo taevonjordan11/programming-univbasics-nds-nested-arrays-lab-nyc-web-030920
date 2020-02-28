@@ -60,8 +60,9 @@ def sorted_matrix
   "Asparagus"
 ]
     ]
-    puts conventional_produce.sort!
-    puts organic_produce.sort!
+    storage_room[conventional_produce].sort
+    storage_room[organic_produce].sort
+    
 end
 
 def matrix_lookup(matrix, row, column)
