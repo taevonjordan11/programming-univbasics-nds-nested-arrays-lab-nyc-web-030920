@@ -88,14 +88,7 @@ def matrix_lookup(matrix, row, column)
   "Asparagus"
 ]
     ]
-    
-   storage_room = [conventional_produce.sort, organic_produce.sort]
-   storage_room[1][3]
-    
-    
-    
-    
-    
+   storage_room[1][1]
 end
 
 def matrix_update(matrix, row, column, new_value)
