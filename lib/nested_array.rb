@@ -72,7 +72,7 @@ end
 def matrix_lookup(matrix, row, column)
   # Given any matrix (array of arrays), a row index and a column index, 
   # Return the matrix's content at that row and and column
-  matrix_lookup = [
+  storage_room = [
     conventional_produce = [
   "Grapefruit",
   "Pineapple",
@@ -88,7 +88,7 @@ def matrix_lookup(matrix, row, column)
   "Asparagus"
 ]
     ]
-    matrix_lookup[1][1]
+    storage_room([1][1])
   
 end
 
