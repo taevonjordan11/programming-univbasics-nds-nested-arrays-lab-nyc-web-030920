@@ -90,7 +90,7 @@ def matrix_lookup(matrix, row, column)
     ]
     
    storage_room = [conventional_produce.sort, organic_produce.sort]
-   storage_room[1][1]
+   storage_room[1][3]
     
     
     
