@@ -60,7 +60,7 @@ def sorted_matrix
   "Asparagus"
 ]
     ]
-    
+    conventional_produce.sort
     organic_produce.sort
     
     
